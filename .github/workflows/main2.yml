@@ -3,7 +3,7 @@ on : push
 
 jobs :
    build :
-     name : Hello world action 
+     name : Hello world action teste 
     runs-on : ubuntu-latest 
     steps :
       - usa : actions / checkout @ v1 
